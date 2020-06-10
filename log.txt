@@ -1,0 +1,50 @@
+[2020.06.10 14:15:44] Launched version: 2001006, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2020.06.10 14:15:44] Executable dir: G:/Telegram2/, name: Telegram.exe
+[2020.06.10 14:15:44] Initial working dir: G:/Telegram2/
+[2020.06.10 14:15:44] Working dir: G:/Telegram2/
+[2020.06.10 14:15:44] Command line: G:\Telegram2\Telegram.exe
+[2020.06.10 14:15:44] Executable path before check: G:/Telegram2/Telegram.exe
+[2020.06.10 14:15:44] Logs started
+[2020.06.10 14:15:44] Connecting local socket to Global\dfd33c973770424850a9719899c10b37-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2020.06.10 14:15:44] This is the only instance of Telegram, starting server and app...
+[2020.06.10 14:15:44] Moved logging from 'G:/Telegram2/log_start0.txt' to 'G:/Telegram2/log.txt'!
+[2020.06.10 14:15:44] Primary screen DPI: 120
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.10 14:15:44] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2020.06.10 14:15:45] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.10 14:15:45] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2020.06.10 14:15:45] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.10 14:15:45] App Info: reading settings...
+[2020.06.10 14:15:45] App Info: reading encrypted settings...
+[2020.06.10 14:15:45] Lang Info: Loaded cached, keys: 2678
+[2020.06.10 14:15:46] OpenAL Logging Level: (not set)
+[2020.06.10 14:15:46] Audio Playback Devices: OpenAL Soft on Р”РёРЅР°РјРёРєРё (2- High Definition Audio Device);OpenAL Soft on BenQ EW2740L (2- NVIDIA High Definition Audio)
+[2020.06.10 14:15:46] Audio Playback Default Device: OpenAL Soft on Р”РёРЅР°РјРёРєРё (2- High Definition Audio Device)
+[2020.06.10 14:15:46] Audio Capture Devices: 
+[2020.06.10 14:15:46] Audio Capture Default Device: 
+[2020.06.10 14:15:46] Audio Error: No capture device found!
+[2020.06.10 14:15:46] App Info: reading map...
+[2020.06.10 14:15:46] App Info: reading encrypted map...
+[2020.06.10 14:15:46] App Info: reading encrypted user settings...
+[2020.06.10 14:15:46] App Info: encrypted user settings read.
+[2020.06.10 14:15:46] App Info: reading encrypted mtp data...
+[2020.06.10 14:15:46] MTP Info: read keys, current: 5, to destroy: 0
+[2020.06.10 14:15:46] Map read time: 20
+[2020.06.10 14:15:46] Export Info: Destroy top bar by controller removal.
+[2020.06.10 14:15:46] Window Shadow: 1, 1, 1, 1, 1, 2, 3, 6, 9, 13, 18, 23, 28, 33
+[2020.06.10 14:15:47] Update Error: could not get current version 6
+[2020.06.10 14:15:48] Update Info: Starting loading 'G:/Telegram2/tupdates/tupdate2001010' from 0 offset.
+[2020.06.10 14:15:48] Update Info: Loading using MTP from '2'.
+[2020.06.10 14:15:48] Message Info: bad message notification received (error_code 33) for msg_id = 6836645424268381880, seq_no = 94
+[2020.06.10 14:15:48] Message Info: bad message notification received, msgId 6836645424268381880, error_code 33
+[2020.06.10 14:15:56] RPC Error: request 187 got fail with code 400, error USER_NOT_PARTICIPANT
+[2020.06.10 14:15:56] RPC Error: request 190 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2020.06.10 14:16:17] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.10 14:16:36] Audio Info: Closing audio playback device.
